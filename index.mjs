@@ -3,8 +3,8 @@ import { $, cd } from 'zx';
 import { readFile, writeFile } from "fs/promises";
 import got from "got";
 
-await $`rm -rf dist`;
-await $`mkdir -p dist`;
+// await $`rm -rf dist`;
+// await $`mkdir -p dist`;
 
 var readme = mustache.render(
     await readFile('template.md', 'utf-8'),
@@ -14,13 +14,14 @@ var readme = mustache.render(
 );
 await writeFile('dist/README.md', readme, 'utf-8');
 
-await $`cp -r .git dist/`;
+// await $`cp -r .git dist/`;
 
 cd('dist');
 
 // try { await $`git branch -D main`; } catch { }
 // await $`git checkout --orphan main`;
 await $`git add .`;
+await $`git config user.name lideming && git config user.email me@yuuza.net`;
 await $`git commit -m "Update from CI"`;
 await $`git push`;
 
