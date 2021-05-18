@@ -1,0 +1,15 @@
+on:
+  push:
+  schedule:
+    - cron:  '*/5 * * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: Update
+    steps:
+      # To use this repository's private action,
+      # you must check out the repository
+      - name: Just update
+        run: |
+          node index.mjs
