@@ -18,7 +18,7 @@ await $`cp -r .git dist/`;
 
 cd('dist');
 
-await $`git branch -D main`;
+try { await $`git branch -D main`; } catch { }
 await $`git checkout --orphan main`;
 await $`git add .`;
 await $`git commit -m "Update from CI"`;
