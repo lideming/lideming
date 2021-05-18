@@ -18,11 +18,11 @@ await $`cp -r .git dist/`;
 
 cd('dist');
 
-try { await $`git branch -D main`; } catch { }
-await $`git checkout --orphan main`;
+// try { await $`git branch -D main`; } catch { }
+// await $`git checkout --orphan main`;
 await $`git add .`;
 await $`git commit -m "Update from CI"`;
-await $`git push -f origin main`;
+await $`git push`;
 
 
 async function getListening() {

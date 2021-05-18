@@ -11,8 +11,14 @@ jobs:
       # To use this repository's private action,
       # you must check out the repository
       - uses: actions/checkout@v2
-        name: Just checkout
-        
+        name: Checkout code
+
+      - name: Checkout readme
+        uses: actions/checkout@v2
+        with:
+          branch: main
+          path: dist
+
       - name: Just update
         run: |
           node index.mjs
