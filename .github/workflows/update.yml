@@ -16,7 +16,7 @@ jobs:
       - name: Checkout readme
         uses: actions/checkout@v2
         with:
-          branch: main
+          ref: main
           path: dist
 
       - name: Just update
