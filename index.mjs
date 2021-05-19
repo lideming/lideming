@@ -9,7 +9,8 @@ import got from "got";
 var readme = mustache.render(
     await readFile('dist/template.md', 'utf-8'),
     {
-        listening: await getListening()
+        listening: await getListening(),
+        updated: new Date().toISOString()
     }
 );
 await writeFile('dist/README.md', readme, 'utf-8');
