@@ -23,7 +23,7 @@ cd('dist');
 // await $`git checkout --orphan main`;
 await $`git add .`;
 await $`git config user.name lideming && git config user.email me@yuuza.net`;
-await $`git commit -m "Update from CI [ci skip]"`;
+await $`git commit -m "Update from CI"`;
 await $`git push`;
 
 
