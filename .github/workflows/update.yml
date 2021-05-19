@@ -1,5 +1,8 @@
+name: Update
+
 on:
-  push: [ ci ]
+  push:
+    branches: [ ci ]
   schedule:
     - cron:  '*/5 * * * *'
 
