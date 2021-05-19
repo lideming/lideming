@@ -7,7 +7,7 @@ import got from "got";
 // await $`mkdir -p dist`;
 
 var readme = mustache.render(
-    await readFile('template.md', 'utf-8'),
+    await readFile('dist/template.md', 'utf-8'),
     {
         listening: await getListening()
     }
@@ -22,7 +22,7 @@ cd('dist');
 // await $`git checkout --orphan main`;
 await $`git add .`;
 await $`git config user.name lideming && git config user.email me@yuuza.net`;
-await $`git commit -m "Update from CI"`;
+await $`git commit -m "Update from CI [ci skip]"`;
 await $`git push`;
 
 
