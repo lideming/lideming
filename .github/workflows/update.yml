@@ -2,9 +2,7 @@ name: Update
 
 on:
   push:
-    branches: [ ci ]
-  schedule:
-    - cron:  '*/5 * * * *'
+    branches: [ main ]
 
 jobs:
   update:
