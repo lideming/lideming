@@ -7,7 +7,7 @@ import got from "got";
 // await $`mkdir -p dist`;
 
 var readme = mustache.render(
-    await readFile('dist/template.md', 'utf-8'),
+    await readFile('template.md', 'utf-8'),
     {
         listening: await getListening(),
         updated: new Date().toISOString()
