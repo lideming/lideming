@@ -23,8 +23,8 @@ cd('dist');
 // await $`git checkout --orphan main`;
 await $`git add .`;
 await $`git config user.name lideming && git config user.email me@yuuza.net`;
-await $`git commit -m "Update from CI"`;
-await $`git push`;
+await $`git commit --amend --no-edit`;
+await $`git push -f`;
 
 
 async function getListening() {
