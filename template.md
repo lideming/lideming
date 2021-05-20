@@ -8,18 +8,18 @@ He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScri
 
 ## Current Projects
 
-* (🔨Maintaining) [denodrivers/mysql](https://github.com/denodrivers/mysql)
+* (🔨Maintaining) [denodrivers/**mysql**](https://github.com/denodrivers/mysql)
   <br>MySQL driver for Deno
 
-* (🚀Contributing) [key-networks/ztncui](https://github.com/key-networks/ztncui)
+* (🚀Contributing) [key-networks/**ztncui**](https://github.com/key-networks/ztncui)
   <br>Self-hosted Web UI for ZeroTier controller
 
-* (🎧Just for fun) [MusicCloud (client,](https://github.com/lideming/MusicCloud)
+* (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)
   <br>Music website built with webfx and ASP.NET Core
   <br>{{& listening }}
 
-* (🧪Experimental) [webfx](https://github.com/lideming/webfx)
+* (🧪Experimental) [**webfx**](https://github.com/lideming/webfx)
   <br>Web UI framework with some utilities
 
 Smaller projects:
