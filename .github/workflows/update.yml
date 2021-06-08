@@ -4,7 +4,8 @@ on:
   push:
     branches: [ main, ci ]
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '34 2 * * *'
+    # everyday at 2:34 am
 
 jobs:
   update:
