@@ -17,6 +17,8 @@ await writeFile('dist/README.md', readme, 'utf-8');
 
 // await $`cp -r .git dist/`;
 
+await $`cp -r .github dist/`;
+
 cd('dist');
 
 // try { await $`git branch -D main`; } catch { }
@@ -33,15 +35,17 @@ async function getListening() {
     var track = json.lastPlayTrack;
     var str = 'He ';
     var timepass = Date.now() - new Date(json.lastPlayTime);
-    if (timepass < 1000 * 60 * 5)
-        str += 'is listening to ';
-    else
-        str += 'was listening to ';
+    // if (timepass < 1000 * 60 * 5)
+    //     str += 'is listening to ';
+    // else
+    //     str += 'was listening to ';
+    str += 'was listening to ';
     if (track)
         str += `[${escapeMD(track.name)} <span style="color: gray">by</span> ${escapeMD(track.artist)}](https://mc.yuuza.net/#track/${track.id}) `;
     else
         str += 'unknown music ';
-    str += `(${formatTime(timepass)} ago).`;
+    // str += `(${formatTime(timepass)} ago).`;
+    str += 'yesterday.';
     return str;
 }
 
