@@ -36,7 +36,7 @@ Smaller projects:
 
 
 <details>
-  <summary>Show Details</summary>
+  <summary>More Useless Info</summary>
 
 ## Programming
 
