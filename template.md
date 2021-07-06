@@ -2,7 +2,7 @@
 
 Deming "Yuuza" Li 🦊 is an undergraduate who enjoys playing with computer software.
 
-He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScript/TypeScript), Python.
+He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScript/TypeScript) and Python.
 <br>He uses Windows, Arch Linux and Debian-based Linux distributions.
 
 
@@ -22,6 +22,9 @@ He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScri
 * (🧪Experimental) [**webfx**](https://github.com/lideming/webfx)
   <br>Web UI framework with some utilities
 
+* (🧪Experimental) [**btrdb**](https://github.com/lideming/btrdb)
+  <br>Experimental database engine inspired by btrfs
+
 Smaller projects:
 
 * [SharpRPN](https://github.com/lideming/SharpRPN) -
@@ -30,8 +33,6 @@ Smaller projects:
   Self-hosted API service for sending email using SMTP
 * [secure-pipe](https://github.com/lideming/secure-pipe) -
   Simple service to pipe text/binary streams over the Internet
-* [btrdb](https://github.com/lideming/btrdb) -
-  Experimental database engine inspired by btrfs
 
 
 <details>
