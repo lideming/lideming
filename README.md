@@ -2,7 +2,7 @@
 
 Deming "Yuuza" Li 🦊 is an undergraduate who enjoys playing with computer software.
 
-He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScript/TypeScript), Python.
+He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScript/TypeScript) and Python.
 <br>He uses Windows, Arch Linux and Debian-based Linux distributions.
 
 
@@ -17,10 +17,13 @@ He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScri
 * (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)
   <br>Music website built with webfx and ASP.NET Core
-  <br>He was listening to [UNION!! <span style="color: gray">by</span> 765 MILLIONSTARS](https://mc.yuuza.net/#track/543) yesterday.
+  <br>He was listening to [ハーモニクス <span style="color: gray">by</span> D/Zeal ・ ジュリア、最上静香](https://mc.yuuza.net/#track/546) yesterday.
 
 * (🧪Experimental) [**webfx**](https://github.com/lideming/webfx)
   <br>Web UI framework with some utilities
+
+* (🧪Experimental) [btrdb](https://github.com/lideming/btrdb) -
+  <br>Experimental database engine inspired by btrfs
 
 Smaller projects:
 
@@ -30,8 +33,6 @@ Smaller projects:
   Self-hosted API service for sending email using SMTP
 * [secure-pipe](https://github.com/lideming/secure-pipe) -
   Simple service to pipe text/binary streams over the Internet
-* [btrdb](https://github.com/lideming/btrdb) -
-  Experimental database engine inspired by btrfs
 
 
 <details>
@@ -83,6 +84,6 @@ The information here is provided by Deming himself, written by Yuuza.
 
 <small>
 
-Latest update: `2021-07-05T02:46:29.082Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2021-07-06T02:23:25.560Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
