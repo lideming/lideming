@@ -22,7 +22,7 @@ He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScri
 * (🧪Experimental) [**webfx**](https://github.com/lideming/webfx)
   <br>Web UI framework with some utilities
 
-* (🧪Experimental) [btrdb](https://github.com/lideming/btrdb) -
+* (🧪Experimental) [**btrdb**](https://github.com/lideming/btrdb)
   <br>Experimental database engine inspired by btrfs
 
 Smaller projects:
@@ -84,6 +84,6 @@ The information here is provided by Deming himself, written by Yuuza.
 
 <small>
 
-Latest update: `2021-07-06T02:23:25.560Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2021-07-06T02:28:01.592Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
