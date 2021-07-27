@@ -84,6 +84,6 @@ The information here is provided by Deming himself, written by Yuuza.
 
 <small>
 
-Latest update: `2021-07-26T02:49:09.925Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2021-07-27T02:49:23.321Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
