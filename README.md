@@ -17,7 +17,7 @@ He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScri
 * (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)
   <br>Music website built with webfx and ASP.NET Core
-  <br>He was listening to [Snow×Connect <span style="color: gray">by</span> 霜月はるか](https://mc.yuuza.net/#track/897) yesterday.
+  <br>He was listening to [オルゴールの小箱 <span style="color: gray">by</span> 川島瑞樹、白坂小梅、アナスタシア、神谷奈緒、北条加蓮](https://mc.yuuza.net/#track/873) yesterday.
 
 * (🧪Experimental) [**webfx**](https://github.com/lideming/webfx)
   <br>Web UI framework with some utilities
@@ -84,6 +84,6 @@ The information here is provided by Deming himself, written by Yuuza.
 
 <small>
 
-Latest update: `2021-10-06T02:48:16.329Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2021-10-07T02:50:10.694Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
