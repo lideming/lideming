@@ -17,7 +17,7 @@ He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScri
 * (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)
   <br>Music website built with webfx and ASP.NET Core
-  <br>He was listening to [Palette (M@STER VERSION) <span style="color: gray">by</span> ピンクチェックスクール](https://mc.yuuza.net/#track/13) yesterday.
+  <br>He was listening to [UNITE IN THE SKY <span style="color: gray">by</span> ユニティちゃん（CV.角元 明日香）](https://mc.yuuza.net/#track/507) yesterday.
 
 * (🧪Experimental) [**webfx**](https://github.com/lideming/webfx)
   <br>Web UI framework with some utilities
@@ -34,11 +34,13 @@ Smaller projects:
 * [secure-pipe](https://github.com/lideming/secure-pipe) -
   Simple service to pipe text/binary streams over the Internet
 
+<details>
+  <summary><b>More Useless Info</b></summary>
+
+---
 
 <details>
-  <summary>More Useless Info</summary>
-
-## Programming
+  <summary><b>Programming</b></summary>
 
 In the past, he had tried many programming languages, before he learned C#/.NET and wrote some desktop apps.
 
@@ -46,7 +48,9 @@ He also used C#/.NET to implement some network protocols, then he understood som
 
 But in the recent two years, he wrote code in TypeScript more than other programming languages. He would like to write vanilla TypeScript and JavaScript, aiming for minimal overhead. He started to create a Web UI framework before learning frameworks like React.
 
-## Operating Systems and Filesystems
+</details>
+<details>
+  <summary><b>Playing with Operating Systems</b></summary>
 
 When he was 5, he had played with the Control Panel on a PC running Windows XP for months, before he finally knew that he could play Flash games within Internet Explorer 6, with a soft-limit (half hour per day) from parents.
 
@@ -59,7 +63,9 @@ He is also a Windows user as he used to be. He run Windows on bare-metal or run 
 He said Btrfs is the best filesystem in the world. Its Copy-on-Write design brings many features and advantages. For example, it has checksum for integrity of metadata and data, it provides data compression, it can merge multiple small changes into a continuous writing.
 
 
-## Natural Language
+</details>
+<details>
+  <summary><b>Natural Language</b></summary>
 
 His native spoken language is Mandarin Chinese.
 
@@ -68,7 +74,9 @@ He learned a little English in school but learned more English from the Internet
 He enjoyed watching anime, so he can understand a little Japanese. There are so many kanji and English katakana words in Japanese, which make Japanese easier for him.
 
 
-## "Yuuza"
+</details>
+<details>
+  <summary><b>"Yuuza"</b></summary>
 
 When Deming was asked to name the first administration user of the Operating System, he made the name of the user:
 
@@ -82,8 +90,38 @@ The information here is provided by Deming himself, written by Yuuza.
 
 </details>
 
+<details>
+  <summary><b>Hardware Spec</b></summary>
+    
+**Yuuza Himself (Human & Fox)**
+
+(Information)
+
+**Main/Power/Gaming Laptop (CLEVO)**
+Type | Model / Spec
+-----|-----
+CPU | Intel i5-8400 (6c6t @ ~3.8 GHz)
+RAM | 16 GiB DDR4
+SSD | 256 GB
+HDD | 2 TB (WD Blue, SMR, with [tiered storage](https://github.com/freemansoft/win10-storage-spaces/))
+GPU | GeForce GTX 1050 Ti (4 GiB VRAM)
+Mouse | Logitech G304
+Keyboard | RK 987 (fixed by WD-40)
+
+**Secondary/Mobile Laptop (ThinkPad X230)**
+Type | Model / Spec
+-----|-----
+CPU | Intel i5-3320m (2c4t @ ~3.0 GHz)
+RAM | 12 GiB DDR3
+SSD | 256 GB
+HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/lvmcache.7.html))
+
+</details>
+
+</details>
+
 <small>
 
-Latest update: `2021-11-10T02:50:39.784Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2021-11-10T17:43:53.067Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
