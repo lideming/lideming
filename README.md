@@ -17,7 +17,7 @@ He writes GUI and network applications in C#, Web languages (HTML, CSS, JavaScri
 * (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)
   <br>Music website built with webfx and ASP.NET Core
-  <br>He was listening to [I will <span style="color: gray">by</span> 茶太](https://mc.yuuza.net/#track/289) yesterday.
+  <br>He was listening to [星織ユメミライ <span style="color: gray">by</span> Ceui](https://mc.yuuza.net/#track/603) recently.
 
 * (🧪Experimental) [**webfx**](https://github.com/lideming/webfx)
   <br>Web UI framework with some utilities
@@ -122,6 +122,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2021-12-12T02:53:58.034Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2021-12-12T09:00:38.672Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
