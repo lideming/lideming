@@ -45,7 +45,7 @@ async function getListening() {
     else
         str += 'unknown music ';
     // str += `(${formatTime(timepass)} ago).`;
-    str += 'yesterday.';
+    str += 'recently.';
     return str;
 }
 
