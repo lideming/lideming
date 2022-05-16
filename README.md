@@ -15,7 +15,7 @@ He uses Windows, Arch Linux and Debian-based Linux distributions.
 * (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)  
   (TS/C#) Music website built with webfx and ASP.NET Core  
-  He was listening to unknown music recently.
+  He was listening to [Blooming Lily <span style="color: gray">by</span> 澤村・スペンサー・英梨々(CV.大西沙織)](https://mc.yuuza.net/#track/1128) recently.
 
 * (🧪Experimental) [**webfx**](https://github.com/lideming/webfx)  
   (TS) Web UI framework with some utilities
@@ -121,6 +121,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2022-05-09T03:35:19.364Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2022-05-16T03:22:49.018Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
