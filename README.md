@@ -4,7 +4,7 @@ Implementing applications / services / libraries in Web languages (HTML, CSS, Ja
 He uses Windows, Arch Linux and Debian-based Linux distributions.
 
 
-## Current Projects
+## ~~Current~~ Projects
 
 * (🔨Maintaining) [denodrivers/**mysql**](https://github.com/denodrivers/mysql)  
   (TS/Deno) MySQL driver for Deno
@@ -15,7 +15,7 @@ He uses Windows, Arch Linux and Debian-based Linux distributions.
 * (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)  
   (TS/C#) Music website built with webfx and ASP.NET Core  
-  He was listening to [きっと青春が聞こえる <span style="color: gray">by</span> μ's](https://mc.yuuza.net/#track/1127) recently.
+  He was listening to [「Original Song」A New Start (MV/4K/AV1) <span style="color: gray">by</span> Nanashi Mumei](https://mc.yuuza.net/#track/1031) recently.
 
 * (🧪Experimental) [**webfx**](https://github.com/lideming/webfx)  
   (TS) Web UI framework with some utilities
@@ -121,6 +121,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2022-06-27T03:58:35.231Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2022-07-04T03:51:24.204Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
