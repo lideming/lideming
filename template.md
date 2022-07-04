@@ -4,7 +4,7 @@ Implementing applications / services / libraries in Web languages (HTML, CSS, Ja
 He uses Windows, Arch Linux and Debian-based Linux distributions.
 
 
-## Current Projects
+## ~~Current~~ Projects
 
 * (🔨Maintaining) [denodrivers/**mysql**](https://github.com/denodrivers/mysql)  
   (TS/Deno) MySQL driver for Deno
