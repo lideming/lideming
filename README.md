@@ -9,7 +9,7 @@ He uses Windows, Arch Linux and Debian-based Linux distributions.
 * (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)  
   (TS/C#) Music website built with webfx and ASP.NET Core  
-  He was listening to [REFLECT <span style="color: gray">by</span> Gawr Gura](https://mc.yuuza.net/#track/1034) recently.
+  He was listening to [SELECTION HEROINE <span style="color: gray">by</span> 9-tie](https://mc.yuuza.net/#track/1026) recently.
 
 * (🔨Maintaining) [denodrivers/**mysql**](https://github.com/denodrivers/mysql)  
   (TS/Deno) MySQL driver for Deno
@@ -67,7 +67,7 @@ SSD | 512 GB
 HDD | _N/A_
 GPU | GeForce GTX 1660 SUPER (6 GiB VRAM)
 Mouse | Logitech G304
-Keyboard | [NiZ X87EC](https://www.nizkeyboard.com/products/niz-2019-new-x87-electro-capacitive-bluetooth-keyboard-non-rgb-white-black?variant=30347148034119)
+Keyboard | [NiZ X87EC](https://www.nizkeyboard.com/products/niz-2019-new-x87-electro-capacitive-bluetooth-keyboard-non-rgb-white-black?variant=30347148034119) from [VisualDust](https://github.com/visualDust)
 
 **Main/Power Laptop (CLEVO)**
 Type | Model / Spec
@@ -94,6 +94,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2022-07-17T21:50:25.916Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2022-07-17T21:54:51.317Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
