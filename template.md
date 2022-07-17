@@ -67,7 +67,7 @@ SSD | 512 GB
 HDD | _N/A_
 GPU | GeForce GTX 1660 SUPER (6 GiB VRAM)
 Mouse | Logitech G304
-Keyboard | [NiZ X87EC](https://www.nizkeyboard.com/products/niz-2019-new-x87-electro-capacitive-bluetooth-keyboard-non-rgb-white-black?variant=30347148034119)
+Keyboard | [NiZ X87EC](https://www.nizkeyboard.com/products/niz-2019-new-x87-electro-capacitive-bluetooth-keyboard-non-rgb-white-black?variant=30347148034119) from [VisualDust](https://github.com/visualDust)
 
 **Main/Power Laptop (CLEVO)**
 Type | Model / Spec
