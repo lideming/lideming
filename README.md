@@ -10,7 +10,7 @@ Currently working at [Bytedance](http://github.com/bytedance) as Frontend Web De
 * (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)  
   (TS/C#) Music website built with webfx and ASP.NET Core  
-  He was listening to [REFLECT <span style="color: gray">by</span> Gawr Gura](https://mc.yuuza.net/#track/1034) recently.
+  He was listening to [大切な场所 <span style="color: gray">by</span> 斎藤桃子/悠木碧](https://mc.yuuza.net/#track/22) recently.
 
 * (🔨Maintaining) [denodrivers/**mysql**](https://github.com/denodrivers/mysql)  
   (TS/Deno) MySQL driver for Deno
@@ -95,6 +95,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2022-08-01T04:19:53.043Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2022-08-08T03:48:40.344Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
