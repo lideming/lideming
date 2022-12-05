@@ -42,7 +42,7 @@ Smaller projects:
 <details>
   <summary><b>"Yuuza"</b></summary>
 
-When he was asked to name the first admin user of the Operating System, the username:
+When he was asked to name the first user at Windows OOBE:
 
 > "User" _(English)_
 >

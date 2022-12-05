@@ -41,7 +41,7 @@ async function getListening() {
     //     str += 'was listening to ';
     str += 'was listening to ';
     if (track)
-        str += `${escapeMD(track.name)} <span style="color: gray">by</span> ${escapeMD(track.artist)} `;
+        str += `*${escapeMD(track.name)}* by *${escapeMD(track.artist)}* `;
         // str += `[${escapeMD(track.name)} <span style="color: gray">by</span> ${escapeMD(track.artist)}](https://mc.yuuza.net/#track/${track.id}) `;
     else
         str += 'unknown music ';
