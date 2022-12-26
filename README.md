@@ -10,7 +10,7 @@ Currently working at [Bytedance](http://github.com/bytedance) as Frontend Web De
 * (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)  
   (TS/C#) Music website built with webfx and ASP.NET Core  
-  He was listening to *UNION!!* by *765 MILLIONSTARS* recently.
+  He was listening to *I wonder why...* by *花澤香菜* recently.
 
 * (🔨Maintaining) [denodrivers/**mysql**](https://github.com/denodrivers/mysql)  
   (TS/Deno) MySQL driver for Deno
@@ -95,6 +95,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2022-12-19T02:46:15.592Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2022-12-26T02:49:42.588Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
