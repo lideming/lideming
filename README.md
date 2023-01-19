@@ -3,14 +3,14 @@
 Implementing applications / services / libraries in Web languages (HTML, CSS, JavaScript/TypeScript), C# and Python.  
 He uses Windows, Arch Linux and Debian-based Linux distributions.
 
-Currently working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev (intern), doing micro frontend stuff ([Garfish](https://github.com/modern-js-dev/garfish)).
+Currently working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev (intern), making frontend infra stuff.
 
 ## ~~Current~~ Projects
 
 * (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
   [server)](https://github.com/lideming/MusicCloudServer)  
   (TS/C#) Music website built with webfx and ASP.NET Core  
-  He was listening to *UNION!!* by *765 MILLIONSTARS* recently.
+  He was listening to *Happiness Encore* by *Petit Rabbit's* recently.
 
 * (🔨Maintaining) [denodrivers/**mysql**](https://github.com/denodrivers/mysql)  
   (TS/Deno) MySQL driver for Deno
@@ -95,6 +95,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2023-01-16T02:55:05.602Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2023-01-19T00:52:58.850Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
