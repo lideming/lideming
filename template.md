@@ -3,7 +3,7 @@
 Implementing applications / services / libraries in Web languages (HTML, CSS, JavaScript/TypeScript), C# and Python.  
 He uses Windows, Arch Linux and Debian-based Linux distributions.
 
-Currently working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev (intern), doing micro frontend stuff ([Garfish](https://github.com/modern-js-dev/garfish)).
+Currently working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev (intern), making frontend infra stuff.
 
 ## ~~Current~~ Projects
 
