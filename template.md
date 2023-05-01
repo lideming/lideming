@@ -59,18 +59,18 @@ The information here is provided by Deming himself, written by Yuuza.
 <details>
   <summary><b>Devices</b></summary>
   
-**Main/Gaming Desktop**
+**Main/Power Desktop**
 Type | Model / Spec
 -----|-----
-CPU | AMD Rizen 5 3500X (6c6t @ ~3.8 GHz)
-RAM | 16 GiB DDR4
-SSD | 512 GB
-HDD | _N/A_
+CPU | AMD Ryzen 7 5800 (non-X) (8c16t @ ~4.4 GHz)
+RAM | 32 GiB DDR4
+SSD | 2 TB
+HDD | 1 TB
 GPU | GeForce GTX 1660 SUPER (6 GiB VRAM)
 Mouse | Logitech G304
-Keyboard | [NiZ X87EC](https://www.nizkeyboard.com/products/niz-2019-new-x87-electro-capacitive-bluetooth-keyboard-non-rgb-white-black?variant=30347148034119) from [VisualDust](https://github.com/visualDust)
+Keyboard | [NiZ X87EC](https://www.nizkeyboard.com/products/niz-2019-new-x87-electro-capacitive-bluetooth-keyboard-non-rgb-white-black?variant=30347148034119) (Thank [VisualDust](https://github.com/visualDust))
 
-**Main/Power Laptop (CLEVO)**
+**Main Laptop (CLEVO)**
 Type | Model / Spec
 -----|-----
 CPU | Intel i5 8th Gen (6c6t @ ~3.8 GHz)
@@ -78,8 +78,6 @@ RAM | 16 GiB DDR4
 SSD | 256 GB
 HDD | 2 TB (WD Blue, SMR, with [tiered storage](https://github.com/freemansoft/win10-storage-spaces/))
 GPU | GeForce GTX 1050 Ti (4 GiB VRAM)
-Mouse | _(same as the desktop)_
-Keyboard | _(same as the desktop)_
 
 **Secondary/Mobile Laptop (ThinkPad X230)**
 Type | Model / Spec
