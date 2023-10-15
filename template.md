@@ -7,24 +7,15 @@ Had been working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev
 
 ## ~~Current~~ Projects
 
-* (🎧Just for fun) [**MusicCloud** (client,](https://github.com/lideming/MusicCloud)
-  [server)](https://github.com/lideming/MusicCloudServer)  
-  (TS/C#) Music website built with webfx and ASP.NET Core  
-  {{& listening }}
+| Type | Project | Description |
+| --- | --- | --- |
+| 🎧Just for fun <br>(TS/C#) | [**MusicCloud** (client,](https://github.com/lideming/MusicCloud) [server)](https://github.com/lideming/MusicCloudServer)   | Music website built with webfx and ASP.NET Core   |
+|🔨Maintaining<br>(TS/Deno) | [denodrivers/**mysql**](https://github.com/denodrivers/mysql) | MySQL driver for Deno
+|🚀Contributing<br>(JS/Node) | [key-networks/**ztncui**](https://github.com/key-networks/ztncui) | Web UI for self-hosted ZeroTier controller
+|🧪Experimental<br>(TS/Deno/Node) | [**btrdb**](https://github.com/lideming/btrdb) | CoW & B+ tree database engine inspired by btrfs
+|🧪Experimental<br>(TS) | [**webfx**](https://github.com/lideming/webfx) | Web UI framework with some utilities
 
-* (🔨Maintaining) [denodrivers/**mysql**](https://github.com/denodrivers/mysql)  
-  (TS/Deno) MySQL driver for Deno
-
-* (🚀Contributing) [key-networks/**ztncui**](https://github.com/key-networks/ztncui)  
-  (JS/Node) Self-hosted Web UI for ZeroTier controller
-
-* (🧪Experimental) [**webfx**](https://github.com/lideming/webfx)  
-  (TS) Web UI framework with some utilities
-
-* (🧪Experimental) [**btrdb**](https://github.com/lideming/btrdb)  
-  (TS/Deno/Node) Experimental database engine inspired by btrfs
-
-Smaller projects:
+Smaller experimental projects:
 
 * [SharpRPN](https://github.com/lideming/SharpRPN) -
   (C#) Simple interpreter of an RPN programming language
