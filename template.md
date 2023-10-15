@@ -3,7 +3,7 @@
 Implementing applications / services / libraries in Web languages (HTML, CSS, JavaScript/TypeScript), C# and Python.  
 He uses Windows, Arch Linux and Debian-based Linux distributions.
 
-Had been working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev (intern), making frontend infra stuff.
+Had been working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev (intern), making Web infra stuff.
 
 ## ~~Current~~ Projects
 
