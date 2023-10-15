@@ -3,7 +3,7 @@
 Implementing applications / services / libraries in Web languages (HTML, CSS, JavaScript/TypeScript), C# and Python.  
 He uses Windows, Arch Linux and Debian-based Linux distributions.
 
-Had been working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev (intern), making frontend infra stuff.
+Had been working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev (intern), making Web infra stuff.
 
 ## ~~Current~~ Projects
 
@@ -100,6 +100,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2023-10-15T10:28:48.432Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2023-10-15T10:30:03.714Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
