@@ -3,7 +3,7 @@
 Implementing applications / services / libraries in Web languages (HTML, CSS, JavaScript/TypeScript), C# and Python.  
 He uses Windows, Arch Linux and Debian-based Linux distributions.
 
-Currently working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev (intern), making frontend infra stuff.
+Had been working at [Bytedance](http://github.com/bytedance) as Frontend Web Dev (intern), making frontend infra stuff.
 
 ## ~~Current~~ Projects
 
@@ -62,15 +62,22 @@ The information here is provided by Deming himself, written by Yuuza.
 **Main/Power Desktop**
 Type | Model / Spec
 -----|-----
-CPU | AMD Ryzen 7 5800 (non-X) (8c16t @ ~4.4 GHz)
+CPU | AMD Ryzen 7 5800 (8c16t @ ~4.4 GHz)
 RAM | 32 GiB DDR4
 SSD | 2 TB
-HDD | 1 TB
-GPU | GeForce GTX 1660 SUPER (6 GiB VRAM)
+HDD | 4 TB
+GPU | GeForce RTX 4070 (12 GiB VRAM)
 Mouse | Logitech G304
 Keyboard | [NiZ X87EC](https://www.nizkeyboard.com/products/niz-2019-new-x87-electro-capacitive-bluetooth-keyboard-non-rgb-white-black?variant=30347148034119) (Thank [VisualDust](https://github.com/visualDust))
 
-**Main Laptop (CLEVO)**
+**Main Mobile Laptop (ThinkPad T480)**
+Type | Model / Spec
+-----|-----
+CPU | Intel i5 8350U (4c8t @ ~3.3 GHz)
+RAM | 8 GiB
+SSD | 1 TB (VisualDust DIY)
+
+**Old Gaming Laptop (CLEVO)**
 Type | Model / Spec
 -----|-----
 CPU | Intel i5 8th Gen (6c6t @ ~3.8 GHz)
@@ -79,7 +86,7 @@ SSD | 256 GB
 HDD | 2 TB (WD Blue, SMR, with [tiered storage](https://github.com/freemansoft/win10-storage-spaces/))
 GPU | GeForce GTX 1050 Ti (4 GiB VRAM)
 
-**Secondary/Mobile Laptop (ThinkPad X230)**
+**Old Mobile Laptop (ThinkPad X230)**
 Type | Model / Spec
 -----|-----
 CPU | Intel i5 3th Gen (2c4t @ ~3.0 GHz)
@@ -93,6 +100,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2023-10-09T02:35:43.923Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2023-10-15T10:28:48.432Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
