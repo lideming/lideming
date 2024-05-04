@@ -3,31 +3,43 @@ import { $, cd } from 'zx';
 import { readFile, writeFile } from "fs/promises";
 import got from "got";
 
-// await $`rm -rf dist`;
-// await $`mkdir -p dist`;
+main();
 
-var readme = mustache.render(
-    await readFile('template.md', 'utf-8'),
-    {
-        listening: await getListening(),
-        updated: new Date().toISOString()
+async function main() {
+    const { GITHUB_EVENT_NAME } = process.env;
+
+    console.info(`GITHUB_EVENT_NAME: ${GITHUB_EVENT_NAME}`);
+
+    if (GITHUB_EVENT_NAME == 'schedule' && Math.random() > 0.2) {
+        console.info("decided to not proceed.")
+        return
     }
-);
-await writeFile('dist/README.md', readme, 'utf-8');
 
-// await $`cp -r .git dist/`;
+    // await $`rm -rf dist`;
+    // await $`mkdir -p dist`;
 
-await $`cp -r .github dist/`;
+    var readme = mustache.render(
+        await readFile('template.md', 'utf-8'),
+        {
+            listening: await getListening(),
+            updated: new Date().toISOString()
+        }
+    );
+    await writeFile('dist/README.md', readme, 'utf-8');
 
-cd('dist');
+    // await $`cp -r .git dist/`;
 
-// try { await $`git branch -D main`; } catch { }
-// await $`git checkout --orphan main`;
-await $`git add .`;
-await $`git config user.name lideming && git config user.email me@yuuza.net`;
-await $`git commit -m "Update from CI"`;
-await $`git push`;
+    await $`cp -r .github dist/`;
 
+    cd('dist');
+
+    // try { await $`git branch -D main`; } catch { }
+    // await $`git checkout --orphan main`;
+    await $`git add .`;
+    await $`git config user.name lideming && git config user.email me@yuuza.net`;
+    await $`git commit -m "Update from CI"`;
+    await $`git push`;
+}
 
 async function getListening() {
     var resp = await got('https://mc.yuuza.net/api/users/1/stat');
