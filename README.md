@@ -53,8 +53,8 @@ The information here is provided by Deming himself, written by Yuuza.
 **Main/Power Desktop**
 Type | Model / Spec
 -----|-----
-CPU | AMD Ryzen 7 5800 (8c16t @ ~4.4 GHz)
-RAM | 32 GiB DDR4
+CPU | AMD Ryzen 7 7700 (8c16t @ ~4.7 GHz)
+RAM | 32 GiB DDR5
 SSD | 2 TB
 HDD | 4 TB
 GPU | GeForce RTX 4070 (12 GiB VRAM)
@@ -91,6 +91,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2024-07-30T02:48:07.922Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2024-08-13T02:26:51.205Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
