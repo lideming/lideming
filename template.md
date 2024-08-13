@@ -53,8 +53,8 @@ The information here is provided by Deming himself, written by Yuuza.
 **Main/Power Desktop**
 Type | Model / Spec
 -----|-----
-CPU | AMD Ryzen 7 5800 (8c16t @ ~4.4 GHz)
-RAM | 32 GiB DDR4
+CPU | AMD Ryzen 7 7700 (8c16t @ ~4.7 GHz)
+RAM | 32 GiB DDR5
 SSD | 2 TB
 HDD | 4 TB
 GPU | GeForce RTX 4070 (12 GiB VRAM)
