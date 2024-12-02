@@ -3,7 +3,9 @@
 Implementing applications / services / libraries in Web languages (HTML, CSS, JavaScript/TypeScript), C# and Python.  
 Using Windows, Arch Linux and Debian-based Linux distributions.
 
-Previously worked at [ByteDance](https://github.com/bytedance) as an intern, making Web infra stuff.
+Now working at [Tencent](https://github.com/Tencent) as a Web Frontend Noob.
+
+~~Previously worked at [ByteDance](https://github.com/bytedance) as an intern, making Web infra stuff.~~
 
 ## ~~Current~~ Projects
 
