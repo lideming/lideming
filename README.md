@@ -3,7 +3,9 @@
 Implementing applications / services / libraries in Web languages (HTML, CSS, JavaScript/TypeScript), C# and Python.  
 Using Windows, Arch Linux and Debian-based Linux distributions.
 
-Previously worked at [ByteDance](https://github.com/bytedance) as an intern, making Web infra stuff.
+Now working at [Tencent](https://github.com/Tencent) as a Web Frontend Noob.
+
+~~Previously worked at [ByteDance](https://github.com/bytedance) as an intern, making Web infra stuff.~~
 
 ## ~~Current~~ Projects
 
@@ -91,6 +93,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2024-12-01T03:30:27.029Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2024-12-02T12:24:04.521Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
