@@ -93,6 +93,6 @@ HDD | 1 TB (Seagate, SMR, with [lvmcache](https://man7.org/linux/man-pages/man7/
 
 <small>
 
-Latest update: `2026-04-10T05:11:29.945Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
+Latest update: `2026-04-11T04:32:56.511Z` ([by GitHub Actions](https://github.com/lideming/lideming/tree/ci)).
 
 </small>
