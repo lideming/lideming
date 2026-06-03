@@ -3,11 +3,11 @@
 Implementing applications / services / libraries in Web languages (HTML, CSS, JavaScript/TypeScript), C# and Python.  
 Using Windows, Arch Linux and Debian-based Linux distributions.
 
-Now working at [Tencent](https://github.com/Tencent) as a Web Frontend Noob.
+Now working at [Tencent](https://github.com/Tencent) as a ~~Web Frontend Noob~~ Full-stack/Agent Developer.
 
 ~~Previously worked at [ByteDance](https://github.com/bytedance) as an intern, making Web infra stuff.~~
 
-## ~~Current~~ Projects
+## ~~Current~~ Outdated Projects (~2024)
 
 | Type | Project | Description |
 | --- | --- | --- |
